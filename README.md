@@ -1,6 +1,13 @@
 # Adaptation-in-Cloud-Computing
-
 Term paper on Adaptation in cloud computing. 
+
+## Description 
+During my coursework on Adaptive Software Engineering, I took the initiative to
+complete a research project on Reinforcement Learning Methods in Adaptation in
+Cloud Computing. This project provided me with the opportunity to apply my
+knowledge of software engineering and reinforcement learning to real-world chal-
+lenges in cloud computing.I successfully completed the term paper and made the
+results available on GitHub for future referen
 
 # Credits 
 
